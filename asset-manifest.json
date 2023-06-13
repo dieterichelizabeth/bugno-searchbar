@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bungo-searchbar/static/css/main.c969e043.css",
+    "main.js": "/bungo-searchbar/static/js/main.b52a83ca.js",
+    "static/js/787.a8867377.chunk.js": "/bungo-searchbar/static/js/787.a8867377.chunk.js",
+    "static/media/ice-cream.png": "/bungo-searchbar/static/media/ice-cream.572f7178e8d34c01bb9a.png",
+    "index.html": "/bungo-searchbar/index.html",
+    "main.c969e043.css.map": "/bungo-searchbar/static/css/main.c969e043.css.map",
+    "main.b52a83ca.js.map": "/bungo-searchbar/static/js/main.b52a83ca.js.map",
+    "787.a8867377.chunk.js.map": "/bungo-searchbar/static/js/787.a8867377.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c969e043.css",
+    "static/js/main.b52a83ca.js"
+  ]
+}
